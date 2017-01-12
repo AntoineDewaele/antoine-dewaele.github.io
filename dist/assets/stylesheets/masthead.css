@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Raleway;
+    font-weight: 800;
+    src: url('/antoine-dewaele.github.io/src/assets/fonts/Raleway-ExtraBold.ttf');
+}
+
+.masthead {
+    width: 100%;
+    height: auto;
+    background: url('/antoine-dewaele.github.io/src/assets/images/masthead.jpg') top center no-repeat fixed;
+    background-size: cover;
+}
+
+.masthead .ui.grid {
+    height: 100%;
+    min-height: 69em;
+    margin: 0;
+    background: repeat scroll 0 0 rgba(53, 60, 79, .8);
+}
+
+.masthead .ui.grid .container {
+    margin: 14em;
+}
+
+.masthead .info h1 {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 7em;
+    line-height: 1em;
+    color: #fff;
+}
+
+.masthead .info h2 {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    line-height: 1em;
+    color: #fff;
+}
+
+.masthead .social {
+    margin: 2em;
+}
+
+.masthead .social .circular.icon {
+    color: rgba(255, 255, 255, .6);
+    box-shadow: 0 0 0 .1em rgba(255, 255, 255, .6) inset !important;
+}
+
+.masthead .avatar {
+    position: absolute;
+    width: 100%;
+    margin-top: 0;
+    margin-right: -1rem !important;
+    margin-left: -1rem !important;
+}
+
+.masthead .avatar .image {
+    width: 460px;
+    border: 10px solid #eff0f4;
+    border-radius: 250px;
+}
+
+@media only screen and (max-width: 450px) {
+    .masthead .ui.grid {
+        min-height: 38em;
+    }
+    .masthead .ui.grid .container {
+        margin: 3em;
+    }
+    .masthead .info h1 {
+        font-size: 4em;
+    }
+    .masthead .info h2 {
+        font-size: 2em;
+    }
+    .masthead .avatar .image {
+        width: 300px;
+    }
+}
