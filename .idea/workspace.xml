@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7592c3a-1809-4a11-9838-8b381fd2e541" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/stylesheets/about.css" afterPath="$PROJECT_DIR$/dist/assets/stylesheets/about.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/stylesheets/styles.min.css" afterPath="$PROJECT_DIR$/dist/assets/stylesheets/styles.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/stylesheets/about.less" afterPath="$PROJECT_DIR$/src/assets/stylesheets/about.less" />
     </list>
     <ignored path="antoine-dewaele.github.io.iws" />
@@ -40,18 +42,18 @@
       <file leaf-file-name="about.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assets/stylesheets/about.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3881932">
-              <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.45259392">
+              <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
               <folding>
-                <marker date="1484282264322" expanded="true" signature="7:2436" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="67:2101" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="427:2097" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="476:1346" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="518:613" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="629:726" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="745:1338" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="1021:1096" placeholder="{...}" />
-                <marker date="1484282264322" expanded="true" signature="1185:1328" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="7:2566" placeholder="{...}" />
+                <marker date="1484282744199" expanded="false" signature="67:2101" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="427:2097" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="476:1346" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="518:613" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="629:726" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="745:1338" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="1021:1096" placeholder="{...}" />
+                <marker date="1484282744199" expanded="true" signature="1185:1328" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -835,18 +837,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/stylesheets/about.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3881932">
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.45259392">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
           <folding>
-            <marker date="1484282264322" expanded="true" signature="7:2436" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="67:2101" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="427:2097" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="476:1346" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="518:613" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="629:726" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="745:1338" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="1021:1096" placeholder="{...}" />
-            <marker date="1484282264322" expanded="true" signature="1185:1328" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="7:2566" placeholder="{...}" />
+            <marker date="1484282744199" expanded="false" signature="67:2101" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="427:2097" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="476:1346" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="518:613" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="629:726" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="745:1338" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="1021:1096" placeholder="{...}" />
+            <marker date="1484282744199" expanded="true" signature="1185:1328" placeholder="{...}" />
           </folding>
         </state>
       </provider>
