@@ -59,19 +59,7 @@
     margin-bottom: 5px;
 }
 
-#about .container .grid .about-extra .segment .money.icon:before {
-    margin-right: -.1em;
-}
-
-#about .container .grid .about-extra .segment .linux.icon:before {
-    margin-right: -.2em;
-}
-
-#about .container .grid .about-extra .segment .film.icon:before {
-    margin-right: -.1em;
-}
-
-#about .container .grid .about-extra .segment .plane.icon:before {
+#about .container .grid .about-extra .segment .icon:before {
     margin-right: -.1em;
 }
 
