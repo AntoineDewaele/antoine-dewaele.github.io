@@ -1,23 +1,29 @@
-@font-face {
-  font-family: Raleway;
-  src: url('/antoine-dewaele.github.io/src/assets/fonts/Raleway-ExtraBold.ttf');
-  font-weight: 800;
-}
-
 .masthead {
   height: auto;
   width: 100%;
   background: url('/antoine-dewaele.github.io/src/assets/images/masthead.jpg') top center no-repeat fixed;
   background-size: cover;
 
+  .avatar {
+    margin-top: 0;
+    width: 100%;
+
+    .image {
+      margin-top: 100px;
+      width: 350px;
+      border: 10px solid #eff0f4;
+      border-radius: 250px;
+    }
+  }
+
   .ui.grid {
     background: repeat scroll 0 0 rgba(53,60,79,.8);
     height: 100%;
-    min-height: 69em;
+    min-height: 100vh;
     margin: 0;
 
     .container {
-      margin: 14em;
+      margin-top: 9em;
     }
   }
 
@@ -25,45 +31,51 @@
     h1 {
       color: #FFFFFF;
       font-size: 7em;
-      font-family: 'Raleway', Helvetica, Arial, sans-serif;
+      font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
       line-height: 1em;
     }
 
     h2 {
       color: #FFFFFF;
       font-size: 3em;
-      font-family: 'Raleway', Helvetica, Arial, sans-serif;
+      font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
       line-height: 1em;
     }
   }
 
   .social {
-    margin: 2em;
-
-    .circular.icon {
-      box-shadow: 0 0 0 0.1em rgba(255, 255, 255, 0.6) inset !important;
+    .ui.button {
+      margin-top: 4em;
       color: rgba(255,255,255,0.6);
+      background-color: transparent;
+      box-shadow: 0 0 0 0.12em rgba(255, 255, 255, 0.6) inset;
+
+      &:hover {
+        color: white;
+        box-shadow: 0 0 0 0 rgba(34,36,38,.15) inset;
+      }
     }
-  }
 
-  .avatar {
-    margin-top: 0;
-    margin-left: -1rem !important;
-    margin-right: -1rem !important;
-    position: absolute;
-    width: 100%;
+    .ui.twitter.button:hover {
+      background-color: #35a2f4;
+    }
 
-    .image {
-      width: 460px;
-      border: 10px solid #eff0f4;
-      border-radius: 250px;
+    .ui.github.button:hover {
+      background-color: black;
+    }
+
+    .ui.gitlab.button:hover {
+      background-color: #FF7043;
+    }
+
+    .ui.linkedin.button:hover {
+      background-color: #287bbc;
     }
   }
 
   @media only screen and (max-width: 450px) {
 
     .ui.grid {
-      min-height: 38em;
       .container { margin: 3em; }
     }
 
@@ -72,7 +84,10 @@
       h2 { font-size: 2em; }
     }
 
-    .avatar .image { width: 300px; }
+    .avatar .image {
+      margin-top: 50px;
+      width: 250px;
+    }
   }
 
 }

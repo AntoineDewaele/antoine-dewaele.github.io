@@ -1,9 +1,3 @@
-@font-face {
-    font-family: Raleway;
-    font-weight: 800;
-    src: url('/antoine-dewaele.github.io/src/assets/fonts/Raleway-ExtraBold.ttf');
-}
-
 .masthead {
     width: 100%;
     height: auto;
@@ -11,58 +5,72 @@
     background-size: cover;
 }
 
+.masthead .avatar {
+    width: 100%;
+    margin-top: 0;
+}
+
+.masthead .avatar .image {
+    width: 350px;
+    margin-top: 100px;
+    border: 10px solid #eff0f4;
+    border-radius: 250px;
+}
+
 .masthead .ui.grid {
     height: 100%;
-    min-height: 69em;
+    min-height: 100vh;
     margin: 0;
     background: repeat scroll 0 0 rgba(53, 60, 79, .8);
 }
 
 .masthead .ui.grid .container {
-    margin: 14em;
+    margin-top: 9em;
 }
 
 .masthead .info h1 {
-    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
     font-size: 7em;
     line-height: 1em;
     color: #fff;
 }
 
 .masthead .info h2 {
-    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
     font-size: 3em;
     line-height: 1em;
     color: #fff;
 }
 
-.masthead .social {
-    margin: 2em;
-}
-
-.masthead .social .circular.icon {
+.masthead .social .ui.button {
+    margin-top: 4em;
     color: rgba(255, 255, 255, .6);
-    box-shadow: 0 0 0 .1em rgba(255, 255, 255, .6) inset !important;
+    background-color: transparent;
+    box-shadow: 0 0 0 .12em rgba(255, 255, 255, .6) inset;
 }
 
-.masthead .avatar {
-    position: absolute;
-    width: 100%;
-    margin-top: 0;
-    margin-right: -1rem !important;
-    margin-left: -1rem !important;
+.masthead .social .ui.button:hover {
+    color: white;
+    box-shadow: 0 0 0 0 rgba(34, 36, 38, .15) inset;
 }
 
-.masthead .avatar .image {
-    width: 460px;
-    border: 10px solid #eff0f4;
-    border-radius: 250px;
+.masthead .social .ui.twitter.button:hover {
+    background-color: #35a2f4;
+}
+
+.masthead .social .ui.github.button:hover {
+    background-color: black;
+}
+
+.masthead .social .ui.gitlab.button:hover {
+    background-color: #ff7043;
+}
+
+.masthead .social .ui.linkedin.button:hover {
+    background-color: #287bbc;
 }
 
 @media only screen and (max-width: 450px) {
-    .masthead .ui.grid {
-        min-height: 38em;
-    }
     .masthead .ui.grid .container {
         margin: 3em;
     }
@@ -73,6 +81,7 @@
         font-size: 2em;
     }
     .masthead .avatar .image {
-        width: 300px;
+        width: 250px;
+        margin-top: 50px;
     }
 }
