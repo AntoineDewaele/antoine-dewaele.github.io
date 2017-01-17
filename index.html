@@ -6,12 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-    <!-- Site Properties -->
-    <title>Antoine Dewaele</title>
-    <link rel="stylesheet" type="text/css" href="vendor/semantic/dist/semantic.min.css">
-    <link rel="stylesheet" type="text/css" href="dist/assets/stylesheets/styles.min.css">
+        <!-- Site Properties -->
+        <title>Antoine Dewaele</title>
+        <link rel="stylesheet" type="text/css" href="vendor/semantic/dist/semantic.min.css">
+        <link rel="stylesheet" type="text/css" href="vendor/paraxify/paraxify.css">
+        <link rel="stylesheet" type="text/css" href="dist/assets/stylesheets/styles.min.css">
+        <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
+        <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.theme.default.min.css" />
 
-    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="vendor/paraxify/paraxify.min.js"></script>
+        <script src="node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
+        <script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
 </head>
 <body>
@@ -55,20 +61,16 @@
 
 </section>
 
-<section id="about">
+<section id="about" class="section">
 
-    <div class="ui container">
+    <div class="ui container section-content">
 
-        <div class="ui header">
-            ABOUT ME
-        </div>
-
-        <span class="border"></span>
+        <div class="ui header">ABOUT ME</div>
 
         <div class="ui middle aligned stackable grid">
             <div class="sixteen wide tablet ten wide computer column">
                 <div class="about-extra">
-                    <p>HOBBIES & INTERESTS</p>
+                    <h2>HOBBIES & INTERESTS</h2>
 
                     <div class="ui horizontal list">
                         <div class="item">
@@ -149,9 +151,205 @@
 
 </section>
 
+<section id="resume" class="section">
+
+    <div class="ui container section-content">
+
+        <div class="ui header">
+            MY RESUME
+        </div>
+
+        <span class="section-title-border"></span>
+
+        <div class="ui center aligned grid">
+
+            <div class="ui compact tertiary segment">
+                <h1> EXPERIENCES </h1>
+            </div>
+
+            <div class="sixteen wide column">
+
+                <div class="timeline-post left">
+                    <div class="timeline-post-icone"></div>
+
+                    <div class="timeline-post-content-holder">
+                        <h2>Web Developer</h2>
+                        <h3>
+                            <span>ISEG Lille</span>
+                            <span class="timeline-duration"> July 2014 - December 2014</span>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+                    </div>
+                </div> <!-- cd-timeline-content -->
+
+                <div class="timeline-post right">
+                    <div class="timeline-post-icone"></div>
+                    <div class="timeline-post-content-holder">
+                        <h2>Web Developer</h2>
+                        <h3>
+                            <span>ECOTACO Lille</span>
+                            <span class="timeline-duration"> April 2016 - August 2016</span>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+                    </div>
+                </div> <!-- cd-timeline-content -->
+
+            </div>
+
+            <div class="ui compact tertiary segment">
+                <h1> EDUCATION </h1>
+            </div>
+
+            <div class="sixteen wide column">
+
+                <div class="timeline-post left">
+                    <div class="timeline-post-icone"></div>
+
+                    <div class="timeline-post-content-holder">
+                        <h2>Master +5</h2>
+                        <h3>
+                            <span>EPITECH Lille</span>
+                            <span class="timeline-duration"> 2013 - 2018</span>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+                    </div>
+                </div> <!-- cd-timeline-content -->
+
+                <div class="timeline-post right">
+                    <div class="timeline-post-icone"></div>
+                    <div class="timeline-post-content-holder">
+                        <h2>Computing Certificate</h2>
+                        <h3>
+                            <span>UQAR Rimouski - Canada</span>
+                            <span class="timeline-duration"> Décembre 2016 - May 2017</span>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+                    </div>
+                </div> <!-- cd-timeline-content -->
+
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+<!-- parallax section -->
+<div class="paraxify parallax section">
+    <div class="overlay">
+        <div class="ui middle aligned center aligned container grid">
+            <h1 class="column">
+                "Convention over configuration"
+            </h1>
+        </div>
+    </div>
+</div>
+
+<!-- skill -->
+<div class="section">
+    <div class="ui basic center aligned segment">
+        <h1 class="ui header">SKILLS</h1>
+    </div>
+
+    <div class="owl-carousel owl-theme ui container">
+
+        <div class="item"><img src="dist/assets/images/svgporn-rails.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-ruby.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-heroku.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-postgresql.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-html.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-css.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-javascript.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-semantic-ui.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-logentries.png" alt="Owl Image"></div>
+        <div class="item"><img src="dist/assets/images/svgporn-slack.png" alt="Owl Image"></div>
+
+    </div>
+
+
+</div>
+
+<!-- portfolio -->
+<div class="section portfolio">
+    <div class="ui basic center aligned segment">
+        <h1 class="ui header">PORTFOLIO</h1>
+    </div>
+
+    <div class="ui center aligned container grid">
+        <div class="ui medium images">
+            <img class="ui bordered image" src="src/assets/images/doeat.png">
+        </div>
+    </div>
+</div>
+
+<div class="paraxify parallax section">
+    <div class="overlay">
+        <div class="container">
+        </div>
+    </div>
+</div>
+
+<!-- contact me -->
+<div class="section">
+    <div class="ui basic center aligned segment">
+        <h1 class="ui header">CONTACT ME</h1>
+    </div>
+</div>
+
+<div class="ui basic center aligned footer segment">
+    <div class="ui horizontal list">
+        <div class="item">
+            <a class="ui medium circular twitter icon button">
+                <i class="twitter icon"></i>
+            </a>
+        </div>
+        <div class="item">
+            <a class="ui medium circular github icon button">
+                <i class="github icon"></i>
+            </a>
+        </div>
+        <div class="item">
+            <a class="ui medium circular gitlab icon button">
+                <i class="gitlab icon"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
 
 
 
 </body>
 
 </html>
+
+<script>
+
+    $('.masthead').imagesLoaded( function() {
+        console.log("bite");
+        myParaxify = paraxify('.paraxify');
+        console.log(myParaxify);
+    });
+
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:20,
+        responsiveClass:true,
+        autoplay:true,
+        autoplayTimeout:1500,
+        autoplayHoverPause:false,
+        responsive:{
+            0:{
+                items:2,
+            },
+            600:{
+                items:4,
+                nav:false
+            },
+            1000:{
+                items:6,
+            }
+        }
+    })
+
+</script>
