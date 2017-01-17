@@ -1,0 +1,48 @@
+.section {
+    padding: 15vh 0;
+
+    &:nth-child(3n+0) {
+        background-color: #f0f2f7;
+    }
+    &:nth-child(3n+1) {
+        background-color: white;
+    }
+
+    .ui.header {
+        font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
+        font-size: 5em;
+        letter-spacing: 5px;
+        line-height: 60px;
+        color: #2c3d4f;
+        text-align: center;
+
+        &:after {
+            content: '';
+            display: block;
+            background: #F54F36;
+            height: 0.2rem;
+            width: 4rem;
+            margin: 2rem auto;
+        }
+
+    }
+
+    &.parallax {
+        padding: 0;
+        background: url("/antoine-dewaele.github.io/src/assets/images/masthead.jpg") fixed center no-repeat;
+        background-size: cover;
+
+        .overlay {
+            background-color: rgba(0,0,0,0.75);
+            height: 400px;
+        }
+    }
+
+    @media only screen and (max-width: 450px) {
+
+        .section-title {
+            font-size: 4em;
+            letter-spacing: 0;
+        }
+    }
+}

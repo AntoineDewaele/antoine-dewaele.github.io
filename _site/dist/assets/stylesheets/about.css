@@ -1,0 +1,96 @@
+#about .container .grid {
+    text-align: center;
+}
+
+#about .container .grid .about-extra {
+    text-align: center;
+}
+
+#about .container .grid .about-extra p {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #7e868e;
+}
+
+#about .container .grid .about-extra .item {
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 0;
+}
+
+#about .container .grid .about-extra .segment {
+    width: 134px;
+    height: 134px;
+    text-align: center;
+    border: 0;
+    background-color: #f1f1f1;
+    box-shadow: 0;
+}
+
+#about .container .grid .about-extra .segment .icon {
+    font-size: 36px;
+    color: #7e868e;
+}
+
+#about .container .grid .about-extra .segment .laptop.icon {
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
+#about .container .grid .about-extra .segment .icon:before {
+    margin-right: -.2em;
+}
+
+#about .container .grid .about-extra .segment span {
+    font-family: 'Raleway-Medium', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #7e868e;
+}
+
+#about .container .grid .info-title {
+    float: left;
+    margin-right: 20px;
+    text-align: left;
+}
+
+#about .container .grid .info-title p {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    margin: 0 0 10px;
+    color: #7e868e;
+}
+
+#about .container .grid .info-details {
+    text-align: left;
+}
+
+#about .container .grid .info-details p {
+    margin: 0 0 10px;
+    color: #7e868e;
+}
+
+#about .container .grid .button {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #f54f36;
+}
+
+#about .container .grid .button .icon {
+    opacity: 100;
+}
+
+@media only screen and (max-width: 800px) {
+    #about .container .grid .about-extra .item {
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1000px) {
+    #about .container .grid .info-title {
+        margin-left: 6em;
+    }
+    #about .container .grid .info-detail {
+        margin-left: 6em;
+    }
+}

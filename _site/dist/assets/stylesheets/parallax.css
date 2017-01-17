@@ -1,0 +1,7 @@
+.parallax.section .ui.grid {
+    height: 100%;
+}
+
+.parallax.section .ui.grid h1 {
+    color: white;
+}
