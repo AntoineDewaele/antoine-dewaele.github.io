@@ -2,332 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7592c3a-1809-4a11-9838-8b381fd2e541" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/_config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.theme.green.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/assets/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/dist/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/css/docs.theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/bird_blue_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/feature-drag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/feature-modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/feature-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/feature-options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/feature-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/feature-zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/img/twitter_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/js/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/assets/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/owlcarousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/vendors/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/vendors/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/vendors/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/vendors/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/animate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/autoheight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/autoplay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/autowidth.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/center.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/demos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/lazyLoad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/merge.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/mousewheel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/rtl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/stagepadding.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/urlhashnav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/demos/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/api-classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/api-events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/api-options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/dev-buildin-plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/dev-external.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/dev-plugin-api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/dev-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/started-faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/started-installation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/started-welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/support-changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/support-contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/docs/support-contributing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/bird_blue_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/feature-drag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/feature-modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/feature-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/feature-options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/feature-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/feature-zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/img/twitter_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/js/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/scss/_settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/scss/demos.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/scss/docs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/scss/docs.theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/scss/highlight.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/vendors/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/vendors/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/vendors/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/vendors/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/data/classes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/data/events.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/data/features.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/data/options.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/helpers/modulo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/helpers/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/layouts/demos.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/layouts/docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/layouts/home.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/animate.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/autoheight.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/autoplay.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/autowidth.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/basic.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/center.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/demos.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/events.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/merge.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/responsive.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/rtl.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/test.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/demos/video.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/api-classes.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/api-events.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/api-options.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/dev-external.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/started-faq.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/started-installation.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/support-contact.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/pages/index.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/footer.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/head.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/header.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/home-carousel.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/home-features.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/home-hero.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/home-teaser-text.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/javascripts.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/releated-docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/sidenav-docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/title.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/docs_src/templates/partials/vendors.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/img/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/img/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.autoheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.autoplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.autorefresh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.hash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.lazyload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.support.modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/js/owl.video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_animate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_autoheight.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_lazyload.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_theme.default.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_theme.green.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/_video.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/owl.carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/owl.theme.default.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/src/scss/owl.theme.green.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/owl.carousel/test/unit/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/css/docs.theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/bird_blue_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-drag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/twitter_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/js/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/animate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autoheight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autoplay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autowidth.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/center.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/demos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/lazyLoad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/merge.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/mousewheel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/rtl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/stagepadding.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/urlhashnav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-buildin-plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-external.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-plugin-api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-installation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-contributing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/bird_blue_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-drag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/twitter_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/js/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/_settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/demos.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/docs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/docs.theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/highlight.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/classes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/events.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/features.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/options.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/helpers/modulo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/helpers/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/demos.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/home.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/animate.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autoheight.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autoplay.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autowidth.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/basic.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/center.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/demos.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/events.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/merge.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/responsive.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/rtl.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/test.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/video.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-classes.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-events.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-options.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-external.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-faq.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-installation.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-contact.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/index.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/footer.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/head.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/header.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-carousel.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-features.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-hero.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-teaser-text.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/javascripts.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/releated-docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/sidenav-docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/title.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/vendors.hbs" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="antoine-dewaele.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -471,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/assets/stylesheets/masthead.less" />
         <option value="$PROJECT_DIR$/src/assets/javascripts/index.coffee" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -531,66 +208,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="owl-carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="antoine-dewaele.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -678,7 +295,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-28" width="1920" height="1108" extended-state="1" />
+    <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1089,6 +706,14 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
