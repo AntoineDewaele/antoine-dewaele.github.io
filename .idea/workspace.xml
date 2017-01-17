@@ -2,317 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7592c3a-1809-4a11-9838-8b381fd2e541" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/bird_blue_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-drag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-modern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-module.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-options.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-zombie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/owl-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/twitter_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/bird_blue_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-drag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-modern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-module.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-options.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-zombie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/owl-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/twitter_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/img/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/img/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/_config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/css/docs.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/animate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autoheight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autoplay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autowidth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/center.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/demos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/lazyLoad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/merge.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/mousewheel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/responsive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/stagepadding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/urlhashnav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-buildin-plugins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-external.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-plugin-api.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-installation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-changelog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-contributing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/demos.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/docs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/docs.theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/highlight.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/classes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/events.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/features.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/options.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/helpers/modulo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/helpers/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/demos.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/docs.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/home.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/animate.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autoheight.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autoplay.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autowidth.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/basic.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/center.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/demos.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/events.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/lazyLoad.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/merge.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/mousewheel.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/responsive.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/rtl.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/stagepadding.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/test.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/urlhashnav.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/video.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-classes.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-events.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-options.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-external.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-styles.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-faq.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-installation.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-welcome.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-changelog.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-contact.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-contributing.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/index.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/footer.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/head.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/header.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-carousel.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-features.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-hero.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-teaser-text.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/javascripts.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/releated-docs.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/sidenav-docs.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/title.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/vendors.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.autoheight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.autoplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.autorefresh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.lazyload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.support.modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_animate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_autoheight.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_lazyload.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_theme.default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_theme.green.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_video.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/owl.carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/owl.theme.default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/owl.theme.green.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/owl-carousel/test/unit/core.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/parallax/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/parallax/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/parallax/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/parallax/parallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/parallax/parallax.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="antoine-dewaele.github.io.iws" />
@@ -337,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.639515">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.6239168">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -632,8 +321,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-28" width="1920" height="1108" extended-state="1" />
-    <editor active="false" />
+    <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -644,7 +333,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36978132" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36978132" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1046,8 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.639515">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.6239168">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding />
         </state>
       </provider>
