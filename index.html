@@ -15,9 +15,7 @@
         <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.theme.default.min.css" />
 
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
-        <script src="vendor/paraxify/paraxify.min.js"></script>
         <script src="node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
-        <script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
 </head>
 <body>
@@ -316,40 +314,9 @@
     </div>
 </div>
 
-
-
-
 </body>
 
 </html>
 
-<script>
-
-    $('.masthead').imagesLoaded( function() {
-        console.log("bite");
-        myParaxify = paraxify('.paraxify');
-        console.log(myParaxify);
-    });
-
-    $('.owl-carousel').owlCarousel({
-        loop:true,
-        margin:20,
-        responsiveClass:true,
-        autoplay:true,
-        autoplayTimeout:1500,
-        autoplayHoverPause:false,
-        responsive:{
-            0:{
-                items:2,
-            },
-            600:{
-                items:4,
-                nav:false
-            },
-            1000:{
-                items:6,
-            }
-        }
-    })
-
-</script>
+<script src="vendor/paraxify/paraxify.min.js"></script>
+<script src="dist/assets/javascripts/index.min.js"></script>
