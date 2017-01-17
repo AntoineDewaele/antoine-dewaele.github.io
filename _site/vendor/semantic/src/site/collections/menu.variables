@@ -1,7 +1,0 @@
-/*******************************
-    User Variable Overrides
-*******************************/
-
-@border: 0;
-@boxShadow: 0;
-@secondaryPointingBorderWidth: 0;
