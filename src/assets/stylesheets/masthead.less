@@ -5,48 +5,40 @@
   background: url('/cv/src/assets/images/masthead.jpg') top center no-repeat fixed;
   background-size: cover;
 
-  .avatar {
-    margin-top: 0;
-    width: 100%;
+  .ui.grid {
+    min-height: 100vh;
+    background: rgba(53, 60, 79, 0.8);
+  }
 
-    .image {
-      margin-top: 100px;
-      width: 350px;
+  .avatar {
+    img {
+      width: 50vw;
+      max-width: 350px;
+      min-width: 150px;
       border: 10px solid #eff0f4;
       border-radius: 250px;
     }
   }
 
-  .ui.grid {
-    background: repeat scroll 0 0 rgba(53,60,79,.8);
-    height: 100%;
-    min-height: 100vh;
-    margin: 0;
-
-    .container {
-      margin-top: 9em;
-    }
-  }
-
   .info {
-    h1 {
+    margin-top: 6em;
+    .ui.header {
       color: #FFFFFF;
-      font-size: 7em;
+      font-size: 6.5em;
       font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
       line-height: 1em;
     }
-
-    h2 {
+    .sub.header {
+      margin-top: 2rem;
       color: #FFFFFF;
-      font-size: 3em;
-      font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
+      font-size: 2.75rem !important;
+      font-family: 'Raleway-Medium', Helvetica, Arial, sans-serif;
       line-height: 1em;
     }
   }
 
   .social {
     .ui.button {
-      margin-top: 4em;
       color: rgba(255,255,255,0.6);
       background-color: transparent;
       box-shadow: 0 0 0 0.12em rgba(255, 255, 255, 0.6) inset;
@@ -77,17 +69,21 @@
   @media only screen and (max-width: 450px) {
 
     .ui.grid {
-      .container { margin: 3em; }
+
     }
 
     .info {
-      h1 { font-size: 4em; }
-      h2 { font-size: 2em; }
+      margin: 0;
+      .ui.header { font-size: 2em; }
+      .sub.header {
+        margin: 1rem;
+        font-size: 1rem !important;
+      }
     }
 
     .avatar .image {
-      margin-top: 50px;
-      width: 250px;
+     // margin-top: 50px;
+      //width: 250px;
     }
   }
 

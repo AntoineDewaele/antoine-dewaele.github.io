@@ -5,3 +5,9 @@
 .parallax.section .ui.grid h1 {
     color: white;
 }
+
+@media only screen and (max-width: 450px) {
+    .parallax.section .ui.grid h1 {
+        font-size: 2em;
+    }
+}

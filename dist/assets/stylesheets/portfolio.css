@@ -1,3 +1,16 @@
 .portfolio .ui.image {
     margin: 10px;
 }
+
+.portfolio .ui.image .dimmer {
+    opacity: 6;
+    background-color: rgba(245, 79, 54, .85);
+}
+
+.portfolio .ui.image .dimmer h1 {
+    color: white;
+}
+
+.portfolio .ui.image .dimmer a {
+    color: black;
+}

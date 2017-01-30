@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    var initMap;
     $('.owl-carousel').owlCarousel({
         loop: true,
         margin: 20,
@@ -8,7 +9,7 @@ $(document).ready(function() {
         autoplayHoverPause: false,
         responsive: {
             0: {
-                items: 2
+                items: 3
             },
             600: {
                 items: 4,
@@ -19,5 +20,23 @@ $(document).ready(function() {
             }
         }
     });
-    return paraxify('.paraxify');
+    $('.section .grid .ui.bordered.image').dimmer({
+        on: 'hover'
+    });
+    paraxify('.paraxify');
+    return initMap = function() {
+        var map, marker, uluru;
+        uluru = {
+            lat: -25.363,
+            lng: 131.044
+        };
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 4,
+            center: uluru
+        });
+        return marker = new google.maps.Marker({
+            position: uluru,
+            map: map
+        });
+    };
 });

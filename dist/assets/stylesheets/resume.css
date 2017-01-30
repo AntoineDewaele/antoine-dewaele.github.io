@@ -4,14 +4,16 @@
     margin-bottom: 2em;
 }
 
-#resume .grid .segment {
+#resume .grid .row {
+    padding-top: 0;
+}
+
+#resume .grid .row .segment {
     z-index: 10;
 }
 
 #resume .grid .timeline-post {
     position: relative;
-    float: left;
-    width: 50%;
     padding: 10px 25px;
 }
 
@@ -65,7 +67,7 @@
 
 #resume .grid .left .timeline-post-icone {
     right: 0;
-    margin-right: -9px;
+    margin-right: -24px;
 }
 
 #resume .grid .left:hover .timeline-post-content-holder::before {
@@ -80,7 +82,7 @@
 
 #resume .grid .right .timeline-post-icone {
     left: 0;
-    margin-left: -6px;
+    margin-left: -19px;
 }
 
 #resume .grid .right:hover .timeline-post-content-holder::before {

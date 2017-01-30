@@ -8,7 +8,7 @@ $(document).ready(->
     autoplayHoverPause:false,
     responsive:{
       0:{
-        items:2,
+        items:3,
       },
       600:{
         items:4,
@@ -20,5 +20,23 @@ $(document).ready(->
     }
   })
 
+  $('.section .grid .ui.bordered.image')
+  .dimmer({
+    on: 'hover'
+  })
+  ;
+
   paraxify('.paraxify');
+
+
+  initMap = ->
+    uluru = {lat: -25.363, lng: 131.044};
+    map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 4,
+      center: uluru
+    });
+
+    marker = new google.maps.Marker
+      position: uluru
+      map: map
 );

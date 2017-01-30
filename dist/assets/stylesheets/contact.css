@@ -1,0 +1,16 @@
+.contact .ui.grid #map {
+    height: 400px;
+}
+
+.contact .ui.grid .ui.list .item {
+    margin-bottom: 10px;
+}
+
+.contact .ui.grid .ui.list .item .icon {
+    background-color: #f54f36 !important;
+}
+
+.contact .ui.grid .ui.list .item .content {
+    margin-left: 10px;
+    vertical-align: middle;
+}

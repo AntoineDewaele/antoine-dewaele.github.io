@@ -5,45 +5,39 @@
     background-size: cover;
 }
 
-.masthead .avatar {
-    width: 100%;
-    margin-top: 0;
+.masthead .ui.grid {
+    min-height: 100vh;
+    background: rgba(53, 60, 79, .8);
 }
 
-.masthead .avatar .image {
-    width: 350px;
-    margin-top: 100px;
+.masthead .avatar img {
+    width: 50vw;
+    min-width: 150px;
+    max-width: 350px;
     border: 10px solid #eff0f4;
     border-radius: 250px;
 }
 
-.masthead .ui.grid {
-    height: 100%;
-    min-height: 100vh;
-    margin: 0;
-    background: repeat scroll 0 0 rgba(53, 60, 79, .8);
+.masthead .info {
+    margin-top: 6em;
 }
 
-.masthead .ui.grid .container {
-    margin-top: 9em;
-}
-
-.masthead .info h1 {
+.masthead .info .ui.header {
     font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
-    font-size: 7em;
+    font-size: 6.5em;
     line-height: 1em;
     color: #fff;
 }
 
-.masthead .info h2 {
-    font-family: 'Raleway-Bold', Helvetica, Arial, sans-serif;
-    font-size: 3em;
+.masthead .info .sub.header {
+    font-family: 'Raleway-Medium', Helvetica, Arial, sans-serif;
+    font-size: 2.75rem !important;
     line-height: 1em;
+    margin-top: 2rem;
     color: #fff;
 }
 
 .masthead .social .ui.button {
-    margin-top: 4em;
     color: rgba(255, 255, 255, .6);
     background-color: transparent;
     box-shadow: 0 0 0 .12em rgba(255, 255, 255, .6) inset;
@@ -71,17 +65,14 @@
 }
 
 @media only screen and (max-width: 450px) {
-    .masthead .ui.grid .container {
-        margin: 3em;
+    .masthead .info {
+        margin: 0;
     }
-    .masthead .info h1 {
-        font-size: 4em;
-    }
-    .masthead .info h2 {
+    .masthead .info .ui.header {
         font-size: 2em;
     }
-    .masthead .avatar .image {
-        width: 250px;
-        margin-top: 50px;
+    .masthead .info .sub.header {
+        font-size: 1rem !important;
+        margin: 1rem;
     }
 }

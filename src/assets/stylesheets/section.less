@@ -35,13 +35,17 @@
         .overlay {
             background-color: rgba(0,0,0,0.75);
             height: 400px;
+
+            @media only screen and (max-width: 450px) {
+                height: 300px;
+            }
         }
     }
 
     @media only screen and (max-width: 450px) {
 
-        .section-title {
-            font-size: 4em;
+        .ui.header {
+            font-size: 3em;
             letter-spacing: 0;
         }
     }
