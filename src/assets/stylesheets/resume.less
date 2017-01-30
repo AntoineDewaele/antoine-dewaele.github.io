@@ -110,4 +110,40 @@
     background: #d7e4ed;
     z-index: 5;
   }
+
+  @media only screen and (max-width: 768px) , (max-height: 768px) {
+
+    .grid {
+
+      .timeline-post {
+        text-align: left !important;
+
+        .timeline-post-icone {
+          width: 0;
+        }
+
+        .timeline-post-content-holder {
+          background-color: white;
+          border-radius: 5px;
+        }
+
+        &:hover {
+
+          .timeline-post-content-holder:before {
+              content: none;
+            }
+          }
+        }
+
+      .right {
+        margin: 0;
+      }
+
+    }
+
+
+    .grid::after {
+      content: none;
+    }
+  }
 }

@@ -100,3 +100,26 @@
     content: '';
     background: #d7e4ed;
 }
+
+@media only screen and (max-width: 768px),
+(max-height: 768px) {
+    #resume .grid .timeline-post {
+        text-align: left !important;
+    }
+    #resume .grid .timeline-post .timeline-post-icone {
+        width: 0;
+    }
+    #resume .grid .timeline-post .timeline-post-content-holder {
+        border-radius: 5px;
+        background-color: white;
+    }
+    #resume .grid .timeline-post:hover .timeline-post-content-holder:before {
+        content: none;
+    }
+    #resume .grid .right {
+        margin: 0;
+    }
+    #resume .grid::after {
+        content: none;
+    }
+}
