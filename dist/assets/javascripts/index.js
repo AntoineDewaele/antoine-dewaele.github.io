@@ -23,7 +23,9 @@ $(document).ready(function() {
     $('.section .grid .ui.bordered.image').dimmer({
         on: 'hover'
     });
-    paraxify('.paraxify');
+    if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        paraxify('.paraxify');
+    }
     return initMap = function() {
         var map, marker, uluru;
         uluru = {
